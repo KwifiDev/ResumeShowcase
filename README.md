@@ -4,7 +4,7 @@
 
 - **Phone**: +963949205472
 - **Email**: Mohamad_Munir_176122@svuonline.org
-- **GitHub**: KwifiDev
+- **GitHub**: [KwifiDev](https://github.com/KwifiDev/)
 - **Location**: Damascus, Syria
 
 ## Summary
@@ -18,7 +18,7 @@ Motivated Junior .NET Backend Developer with a strong passion for continuous lea
 - **Other Skills**: Problem-solving, debugging, team collaboration, communication
 
 ## Experience
-### Driver and Vehicle Licensing Directorate (DVLD) Project
+### [Driver and Vehicle Licensing Directorate (DVLD) Project](https://github.com/KwifiDev/DVLD-Solution)
 **October 2024**
 
 - Developed a comprehensive system for the DVLD, managing entities like people, drivers, users, applications, tests, and licenses.
