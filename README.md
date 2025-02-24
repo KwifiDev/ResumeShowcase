@@ -1,6 +1,6 @@
 # Mohamad Munir Alkwifi 🚀
 
-### Backend Developer
+### .NET Developer
 
 📞 **Phone:** +963949205472  
 📧 **Email:** Mohamad_Munir_176122@svuonline.org  
@@ -11,15 +11,15 @@
 
 ## Summary
 
-**Driven and proactive Junior .NET Backend Developer** with a strong commitment to continuous learning and skill enhancement. I am eager to contribute to innovative software solutions within a collaborative team environment. 🌟
+**Driven and proactive Junior .NET Developer** with a strong commitment to continuous learning and skill enhancement. I am eager to contribute to innovative software solutions within a collaborative team environment. 🌟
 
 ---
 
 ## Skills
 
 - **Programming Languages:** C# 💻
-- **Frameworks:** .NET ⚙️
-- **Database Management:** SQL Server 🗄️
+- **Frameworks:** .NET, Windows Froms, WPF MVVM ⚙️
+- **Database Management:** SQL Server, ADO.NET, Entity Framework Core 🗄️
 - **Tools:** Git 🛠️
 - **Soft Skills:** Problem-solving, debugging, team collaboration, effective communication 📣
 
@@ -36,6 +36,18 @@
   - **Presentation Layer:** Created an intuitive Windows Forms interface.
   - **Business Logic Layer:** Ensured seamless data flow between layers.
   - **Data Access Layer:** Managed database interactions using ADO.NET.
+
+---
+
+### Office Management System [OMS] Project 🏗️
+**January 2025**
+📂 [OpenProject](https://github.com/KwifiDev/OMS-Solution)
+
+- Is under developing a comprehensive system for the OMS With MVVM Design Pattern, managing entities like people, clients, users, payments, sales, debts, more...
+- **Architecture:**  3-Tier Architecture With MVVM Design Pattern.
+ - **Presentation Layer:**  Created a user-friendly WPF MVVM interface.
+ - **Business Logic Layer:** Facilitated data flow between layers.
+ - **Data Access Layer:** Handled database interactions with Entity Framework Core.
 
 ---
 
