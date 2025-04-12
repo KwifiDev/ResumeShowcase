@@ -77,6 +77,7 @@
 - Object-Oriented Programming Concepts (C++) 🏗️
 - Data Structures (C++) 📚
 - Concepts & Practice (C#) ⚙️
+- Data Structures (C#) 📚
 - Database SQL Server Concepts & Practice 🗄️
 - Object-Oriented Programming Concepts in C# 💡
 - C# Database with ADO.NET 📊
