@@ -18,8 +18,9 @@
 ## Skills
 
 - **Programming Languages:** C# 💻
-- **Frameworks:** .NET, Windows Froms, WPF MVVM ⚙️
+- **Frameworks:** .NET, Windows Froms, WPF MVVM, ASP.NET Web API ⚙️
 - **Database Management:** SQL Server, ADO.NET, Entity Framework Core 🗄️
+- **Architecture Patterns:** 3-Tier Architecture, MVVM, RESTful API Design 🏗️
 - **Tools:** Git 🛠️
 - **Soft Skills:** Problem-solving, debugging, team collaboration, effective communication 📣
 
@@ -46,6 +47,7 @@
 - Is under developing a comprehensive system for the OMS With MVVM Design Pattern, managing entities like people, clients, users, payments, sales, debts, more...
 - **Architecture:**  3-Tier Architecture With MVVM Design Pattern.
  - **Presentation Layer:**  Created a user-friendly WPF MVVM interface.
+ - **API Layer:** Developed RESTful Web API for data communication and future integrations.
  - **Business Logic Layer:** Facilitated data flow between layers.
  - **Data Access Layer:** Handled database interactions with Entity Framework Core.
 
@@ -82,6 +84,7 @@
 - Object-Oriented Programming Concepts in C# 💡
 - C# Database with ADO.NET 📊
 - T-SQL Concepts (SQL Server) 🧮
+- ASP.NET Web API Fundamentals 🌐
 
 ### [ExploreCourses](https://github.com/KwifiDev/ResumeShowcase/tree/main/images) 🔗 
 
