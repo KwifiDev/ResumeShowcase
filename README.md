@@ -85,6 +85,7 @@
 - C# Database with ADO.NET 📊
 - T-SQL Concepts (SQL Server) 🧮
 - ASP.NET Web API Fundamentals 🌐
+- (HTML/CSS/Javascript) Fundamentals 🌐
 
 ### [ExploreCourses](https://github.com/KwifiDev/ResumeShowcase/tree/main/images) 🔗 
 
